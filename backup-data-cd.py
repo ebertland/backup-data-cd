@@ -1,6 +1,4 @@
 #!/usb/bin/env python3
-#
-# $Id$
 
 import sys
 import os
